@@ -2,21 +2,22 @@
 
 ## API Folder Structure
 
-    src/
-    ├── app.ts
-    ├── lambda.ts
-    └── controller/
-    └── <controller>.ts
+TODO: this needs to be explained
+src/
+├── app.ts
+├── lambda.ts
+└── controller/
+└── <controller>.ts
 
 ## SHARED Types & Interfaces
 
-explain...
+TODO: this needs to be explained
 
 ## Testing
 
 ### vitest
 
-- vs vode, install Vitest & Vitest Runner
+- vs code, install Vitest & Vitest Runner
 
 ## Configure
 
