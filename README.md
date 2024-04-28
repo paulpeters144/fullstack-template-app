@@ -2,11 +2,11 @@
 
 ## API Folder Structure
 
-├── src/
-│ ├── app.ts
-│ ├── lambda.ts
-│ ├── controller/
-│ │ ├── <controller>.ts
+src/
+├── app.ts
+├── lambda.ts
+└── controller/
+└── <controller>.ts
 
 ## SHARED Types & Interfaces
 
